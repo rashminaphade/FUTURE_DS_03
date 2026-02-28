@@ -1,12 +1,12 @@
-📊 E-Commerce Customer Behavior Dashboard
+# 📊 E-Commerce Customer Behavior Dashboard
 
 
-📌 Project Overview
+# 📌 Project Overview
 
 An interactive Power BI dashboard designed to analyze customer behavior, sales performance, and revenue trends in an e-commerce environment. This project focuses on deriving actionable business insights through data visualization and KPI tracking.
 
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 The primary objective of this project is to:
 
@@ -22,7 +22,7 @@ Support business optimization through data-driven insights
 
 
 
-🔹 Key Features
+# 🔹 Key Features
 
 💰 Total Revenue Analysis
 
@@ -42,7 +42,7 @@ Support business optimization through data-driven insights
 
 
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 Data Cleaning & Transformation
 
@@ -52,7 +52,7 @@ Data Modeling
 
 
 
-📊 Business Insights Generated
+# 📊 Business Insights Generated
 
 Identified high-performing product categories and brands
 
@@ -63,4 +63,6 @@ Detected revenue spike patterns in mid-November
 Evaluated customer purchasing behavior and engagement
 
 
-📁
+# 📁Repository Content
+
+Dashboard screenshot :
